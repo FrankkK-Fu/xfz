@@ -179,7 +179,7 @@ STATIC_ROOT = os.path.join(BASE_DIR,'static_dist')
 MEDIA_URL = '/media/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 
-
+# 111111
 UEDITOR_UPLOAD_TO_SERVER = True
 UEDITOR_UPLOAD_PATH = MEDIA_ROOT
 
