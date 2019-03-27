@@ -206,5 +206,3 @@ HAYSTACK_CONNECTIONS = {
 
 # 增删改查后自动创建索引
 HAYSTACK_SIGNAL_PROCESSOR = 'haystack.signals.RealtimeSignalProcessor'
-
-#just a little test
